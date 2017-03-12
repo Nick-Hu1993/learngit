@@ -5,3 +5,4 @@ Git tracks changes of files
 boss is a shazi
 wo xianzai you lai le
 I have a boy
+Creating a new branch is quick & simple.
